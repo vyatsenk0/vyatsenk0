@@ -6,7 +6,7 @@
 
 <h1 align="center">&lt;Hi there 👋 /&gt;</h1>
 <h2 align="center">I'm Vladislav, a Full-Stack Software Developer & Automation Tester👨‍💻</h2>
-🔭 I’m currently in my final college term
+🔭 I’m currently in the final term of my 3-year Computer Programming & Analysis program at Seneca Polytechnic.
 
 <hr>
 
@@ -54,6 +54,9 @@
 <a href="https://www.linkedin.com/in/vladislav-yatsenko/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+<!-- Github Stats -->
+
 
 
 
