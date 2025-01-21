@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">&lt;Hi there 👋 /&gt;</h1>
-<h2 align="center">I'm Vladislav, a Full-Stack Software Developer & Automation Tester👨‍💻</h2>
+<h2 align="center">I'm Vladislav, a Full-Stack Web Developer & Automation Tester👨‍💻</h2>
 🔭 I’m currently in the final term of my 3-year Computer Programming & Analysis program at Seneca Polytechnic.
 
 <hr>
