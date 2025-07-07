@@ -4,13 +4,15 @@
 **vyatsenk0/vyatsenk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">&lt;Hi there 👋 /&gt;</h1>
-<h2 align="center">I'm Vladislav, a Full-Stack Web Developer & Automation Tester👨‍💻</h2>
-🔭 I’m currently in the final term of my 3-year Computer Programming & Analysis program at Seneca Polytechnic.
+### Hi there 👋
+
+
+## About me
+I'm Vladislav, a Full-Stack Software Developer and graduate of a 3-year Computer Programming & Analysis program at Seneca Polytechnic.
 
 <hr>
 
-<h3>⚡ My Skill Set </h3> 
+<h3> Tech Stack: </h3> 
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/195px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" />
