@@ -56,13 +56,14 @@ I'm Vladislav, a Full-Stack Developer and graduate of a 3-year Computer Programm
 <hr>
 
 
-
 <h3> Connect with me </h3> 
 <a href="https://www.linkedin.com/in/vladislav-yatsenko/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <!-- Github Stats -->
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vyatsenk0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 
