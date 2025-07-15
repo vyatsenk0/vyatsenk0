@@ -26,7 +26,9 @@ I'm Vladislav, a Full-Stack Developer and graduate of a 3-year Computer Programm
   <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" alt="Express" height="50" /> 
+</div>
   
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
   <img src="https://img.icons8.com/?size=512&id=90519&format=png" alt="SpringBoot" height="50" />
