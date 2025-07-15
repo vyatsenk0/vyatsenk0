@@ -28,6 +28,8 @@ I'm Vladislav, a Full-Stack Developer and graduate of a 3-year Computer Programm
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node" height="50" />
 <!--   <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="50" /> -->
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+  <img src="https://img.icons8.com/?size=512&id=90519&format=png" alt="SpringBoot" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="ExpressJS" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt="DotNet" height="50" />
