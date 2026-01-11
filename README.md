@@ -8,7 +8,7 @@
 
 
 ## About me
-I'm Vladislav, a Full-Stack Developer and graduate of a 3-year Computer Programming & Analysis program at Seneca Polytechnic.
+I'm Vladislav, a Full-Stack Developer with 1.7 years of work experience and graduate of a 3-year Computer Programming & Analysis program at Seneca Polytechnic.
 
 <hr>
 
